@@ -1,0 +1,61 @@
+.card {
+    margin-top: 30px;
+    background-color: transparent;
+}
+    .card button {
+        height: 50px;
+        margin-bottom: 30px;
+    }
+.List{
+    display: inline-block;
+    color: white;
+}
+
+.textInput {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 40px;
+    background: none;
+    border: none;
+    background: none;
+    margin-bottom: 10px;
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+.textInput:focus {
+    border-bottom: 3px solid white;
+
+}
+
+.content {
+    width: 300px;
+    display: inline-block;
+    color: white;
+}
+.emoji {
+    margin-left: 50px;
+    width: 250%;
+    position: relative;
+    left:50px;
+    top: 40px;
+}
+
+.emoji button {
+    display: inline-block;
+    background-color: transparent;
+    border: none;
+    display: inline;
+}
+.emoji p {
+    display: inline-block;
+    margin: 0px 5px;
+}
+
+.item {
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid white;
+    width: 250%;
+} 
